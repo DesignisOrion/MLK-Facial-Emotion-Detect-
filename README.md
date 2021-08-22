@@ -1,5 +1,7 @@
 # MLK Facial Emotion Detection
 
+<img src="https://github.com/DesignisOrion/MLK-Facial-Emotion-Detect-/blob/main/cover/mlksmile2.jpg">
+
 The goal of the project was to learn more about the deep learning using OpenCV and DeepFace. Matplotlib was used to plot the images of Martin Luther King Jr. within the notebook. Within this project I was able to get an analsis of MLK age, gender and emotion. I also was able to compare two photos to determine an answer of one to be true, the other comparrison false. Enjoy.
 
 ## Usage
